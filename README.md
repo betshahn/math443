@@ -15,7 +15,8 @@ Quick steps for the portfolio analysis:
 
 *Note that I chose a diverse mix of industries and risk profiles, which helps illustrate portfolio optimization and diversification: the stocks in question are Boeing Co, Garmin, GE Aerospace, Amazon, and Ford*
 
-Interpretation:
+Interpretation from "Portfolio Theory & CAPM.R" of stocks -- 
+
 The portfolio analysis highlights the trade-off between risk and return. The Minimum Variance Portfolio (MVP) has the lowest risk (1.31% standard deviation per day) but also a lower expected return (0.12% daily), making it suitable for risk-averse investors. The Tangency Portfolio offers a higher expected return (0.31% daily) but with increased risk (2.18% standard deviation), achieving the highest Sharpe ratio (0.1375) and representing the best risk-adjusted return among the portfolios.
 
 The CAPM comparison shows how each stock’s historical performance relates to market risk. Stocks with beta above 1 (BA, AMZN, F) are more volatile than the market, while GE is less sensitive. Comparing historical returns to CAPM expected returns reveals that GE outperformed its predicted return, while BA and F underperformed, highlighting which stocks added more or less to portfolio performance relative to their market risk.
